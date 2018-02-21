@@ -1,0 +1,7 @@
+Started by user [8mha:////4HFsbXJTaOf8C+y9TqxxeEHLoYNm0jEp5f8lPFNOZxMrAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9rMySjFIAESivKMAAAAA=[0mjithu
+Building in workspace /var/lib/jenkins/workspace/hello_java
+[hello_java] $ /bin/sh -xe /tmp/jenkins1139404363398321791.sh
++ cd /root/java
+/tmp/jenkins1139404363398321791.sh: line 2: cd: /root/java: Not a directory
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE

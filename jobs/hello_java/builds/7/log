@@ -1,0 +1,11 @@
+Started by user [8mha:////4HFsbXJTaOf8C+y9TqxxeEHLoYNm0jEp5f8lPFNOZxMrAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9rMySjFIAESivKMAAAAA=[0mjithu
+Building in workspace /var/lib/jenkins/workspace/hello_java
+[hello_java] $ /bin/sh -xe /tmp/jenkins4360905208978921014.sh
++ cd /tmp/java/
++ javac HelloWorld.java
+HelloWorld.java:1: error: error while writing HelloWorld: HelloWorld.class (Permission denied)
+public class HelloWorld {
+       ^
+1 error
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE
